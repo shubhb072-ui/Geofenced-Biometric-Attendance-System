@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274845452430",
+    "project_id": "geoattend-shubh-2026",
+    "storage_bucket": "geoattend-shubh-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274845452430:android:0c93bc990d07350a4521df",
+        "android_client_info": {
+          "package_name": "com.example.geoattend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8iSouR8Ig5pPN85emQr1aHkFJy670e7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
